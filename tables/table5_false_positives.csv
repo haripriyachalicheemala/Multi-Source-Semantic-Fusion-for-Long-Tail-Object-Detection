@@ -1,0 +1,4 @@
+Method,False Positive Rate (%),AP_common (%)
+No Fusion (Single Prompt),29.6,18.2
+Mean Fusion,29.7,17.1
+Conflict-Aware Fusion,29.7,15.7

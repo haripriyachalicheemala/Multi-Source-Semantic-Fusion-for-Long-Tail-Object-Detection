@@ -1,0 +1,4 @@
+Method,Stability Index,Mean AP (%),Std AP (%),Status
+Single Prompt,0.76,16.8,1.75,Acceptable
+Mean Fusion,0.75,15.4,1.68,Acceptable
+Adaptive Fusion (Proposed),0.75,15.5,1.71,Acceptable

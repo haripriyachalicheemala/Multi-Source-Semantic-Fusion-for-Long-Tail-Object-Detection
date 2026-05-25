@@ -1,0 +1,3 @@
+Fusion Model,AP (%),Notes
+No Priors (Pure Evidence),17.1,Equal prompt weights
+Prior-Aware Fusion (Proposed),17.6,Specific prompts weighted by class frequency

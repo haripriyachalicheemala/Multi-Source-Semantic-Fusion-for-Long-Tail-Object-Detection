@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Kaggle
+/kaggle/working/
+
+# Outputs
+outputs/generated_figures/
+outputs/generated_tables/
+
+# Large model files
+*.pth
+*.pt
+checkpoints/
+weights/
