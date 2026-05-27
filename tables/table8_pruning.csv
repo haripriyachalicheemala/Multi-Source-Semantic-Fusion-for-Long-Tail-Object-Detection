@@ -1,4 +1,4 @@
 Configuration,AP (%)
-All 5 prompts (no pruning),17.1
-Informed pruning — 3 kept,17.5
-Random pruning — 3 kept,15.1
+All 5 prompts,16.7
+Informed pruning (top-3 by complementarity),16.7
+Random pruning (3 kept),14.7

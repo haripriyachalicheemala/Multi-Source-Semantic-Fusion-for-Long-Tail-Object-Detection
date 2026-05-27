@@ -1,4 +1,4 @@
-Model,ECE (↓),Mean Prompt Entropy (↓),Interpretation
-Baseline (Single Prompt),0.437,0.314,No conflict — 1 prompt
-Mean Fusion,0.45,0.314,Averages conflicts
-Conflict-Aware Fusion,0.46,0.314,Penalises conflicts
+Model,ECE (↓),Mean Prompt Entropy,Interpretation
+Baseline (Single Prompt),0.434,,No conflict — 1 prompt
+Mean Fusion,0.451,,Averages conflicts
+Conflict-Aware Fusion,0.464,,Penalises conflicts

@@ -2,4 +2,4 @@ Fusion Strategy,Extra Parameters,Inference Overhead (%)
 Mean Fusion,None,0.0%
 Max Fusion,None,0.0%
 Weighted Fusion,+0.2M params,+3.1%
-Adaptive Fusion (Proposed),+0.4M params,+5.6%
+Adaptive Fusion,+0.4M params,+5.6%

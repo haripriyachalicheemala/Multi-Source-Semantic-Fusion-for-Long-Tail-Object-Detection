@@ -1,6 +1,6 @@
-Prompt,Mutual Information,Learned Weight,Importance (%)
-cat,0.37,0.17,17.0
-true cat,0.39,0.18,18.0
-feline mammal usually hav,0.43,0.2,20.0
-guy,0.44,0.2,20.0
-hombre,0.52,0.24,24.0
+Prompt,Complementarity Score,Softmax Weight,Importance (%)
+birdcage,0.17,0.17,17.0
+cage,0.37,0.37,37.0
+a photo of a birdcage,0.14,0.14,14.0
+an image of birdcage,0.16,0.16,16.0
+a birdcage object,0.17,0.17,17.0
