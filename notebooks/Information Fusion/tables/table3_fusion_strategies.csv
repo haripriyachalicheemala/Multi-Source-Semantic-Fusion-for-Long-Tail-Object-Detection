@@ -1,0 +1,6 @@
+Fusion Strategy,AP_seen (%),AP_unseen (%),GZSD HM (%)
+Single Prompt (Baseline),18.5,12.4,14.8
+Mean Fusion,16.7,12.2,14.1
+Max Fusion,15.9,10.0,12.3
+Weighted Fusion,17.7,12.2,14.4
+Adaptive Fusion,16.9,12.3,14.2

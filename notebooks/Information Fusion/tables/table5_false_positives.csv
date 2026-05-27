@@ -1,0 +1,4 @@
+Method,False Positives (%),AP_common (%)
+Baseline (Single Prompt),29.6,18.5
+Mean Fusion,29.7,16.7
+Conflict-Aware Fusion,29.7,15.1

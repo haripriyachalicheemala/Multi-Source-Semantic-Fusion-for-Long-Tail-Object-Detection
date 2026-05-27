@@ -1,0 +1,6 @@
+Prompt,Complementarity Score,Softmax Weight,Importance (%)
+birdcage,0.17,0.17,17.0
+cage,0.37,0.37,37.0
+a photo of a birdcage,0.14,0.14,14.0
+an image of birdcage,0.16,0.16,16.0
+a birdcage object,0.17,0.17,17.0
