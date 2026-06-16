@@ -1,0 +1,5 @@
+dataset,group,frequency_code,gt_pairs,primary_recall,semantic_recall,adaptive_recall,prior_aware_recall
+COCO,Balanced,NA,3217,0.8816,0.927,0.8231,0.8231
+LVIS,Rare,r,331,0.6616,0.7674,0.5861,0.7221
+LVIS,Common,c,266,0.8233,0.8722,0.7481,0.812
+LVIS,Frequent,f,3535,0.8741,0.9298,0.8257,0.8546

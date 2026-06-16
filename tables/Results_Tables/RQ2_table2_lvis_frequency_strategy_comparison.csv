@@ -1,0 +1,13 @@
+frequency_group,frequency_code,strategy,gt_pairs,mean_fusion_score,median_fusion_score,std_fusion_score,semantic_detected_pair_recall,frequency_rank
+Common,c,Max Fusion,266,0.2405,0.2113,0.1735,0.8722,1
+Common,c,Adaptive Fusion,266,0.1637,0.1566,0.1029,0.8722,2
+Common,c,Weighted Fusion,266,0.1117,0.1094,0.0646,0.8722,3
+Common,c,Mean Fusion,266,0.1111,0.107,0.0644,0.8722,4
+Frequent,f,Max Fusion,3535,0.3302,0.309,0.2103,0.9298,1
+Frequent,f,Adaptive Fusion,3535,0.2165,0.2072,0.1269,0.9298,2
+Frequent,f,Weighted Fusion,3535,0.1395,0.1264,0.0898,0.9298,3
+Frequent,f,Mean Fusion,3535,0.1377,0.1253,0.0888,0.9298,4
+Rare,r,Max Fusion,331,0.1797,0.1493,0.1586,0.7674,1
+Rare,r,Adaptive Fusion,331,0.1289,0.1189,0.1023,0.7674,2
+Rare,r,Weighted Fusion,331,0.0949,0.0945,0.0728,0.7674,3
+Rare,r,Mean Fusion,331,0.0947,0.0946,0.0725,0.7674,4

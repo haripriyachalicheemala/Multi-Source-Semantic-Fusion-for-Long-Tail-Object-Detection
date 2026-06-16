@@ -1,0 +1,6 @@
+level,group,frequency_code,semantic_threshold,gt_pairs,detected_pairs,all_prompt_recall,single_source_pairs,redundant_pairs,missed_pairs,single_source_rate,redundancy_rate,miss_rate,mean_prompt_types_hit
+Dataset,COCO,NA,0.05,3217,2982,0.927,1300,1682,235,0.4041,0.5228,0.073,1.7998
+Dataset,LVIS,NA,0.05,4132,3773,0.9131,1219,2554,359,0.295,0.6181,0.0869,2.1409
+LVIS Frequency,Rare,r,0.05,331,254,0.7674,97,157,77,0.2931,0.4743,0.2326,1.565
+LVIS Frequency,Common,c,0.05,266,232,0.8722,80,152,34,0.3008,0.5714,0.1278,1.985
+LVIS Frequency,Frequent,f,0.05,3535,3287,0.9298,1042,2245,248,0.2948,0.6351,0.0702,2.2065

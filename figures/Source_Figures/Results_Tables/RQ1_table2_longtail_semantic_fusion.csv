@@ -1,0 +1,4 @@
+frequency_group,frequency_code,gt_pairs,semantic_detected_pairs,semantic_pair_recall,mean_max_fusion_score,mean_adaptive_fusion_score,mean_prompt_hits,primary_AP50,semantic_AP50,AP50_gain,AP50_relative_gain_%
+Rare,r,331,254,0.7674,0.1797,0.1289,6.63,0.0817,0.1055,0.0238,29.13
+Common,c,266,232,0.8722,0.2405,0.1637,11.88,0.1315,0.1372,0.0057,4.33
+Frequent,f,3535,3287,0.9298,0.3302,0.2165,12.03,0.2615,0.2991,0.0376,14.38

@@ -1,41 +1,34 @@
-# Python
-__pycache__/
-*.py[cod]
-*.so
+# Prior-Aware Multi-Source Semantic Evidence Fusion for Long-Tail Open-Vocabulary Object Detection
 
-# Jupyter
-.ipynb_checkpoints/
+## Overview
 
-# Virtual Environments
-venv/
-env/
+This repository contains the implementation, figures, tables, results, and manuscript associated with the Information Fusion submission:
 
-# VSCode
-.vscode/
+**Prior-Aware Multi-Source Semantic Evidence Fusion for Long-Tail Open-Vocabulary Object Detection**
 
-# PyCharm
-.idea/
+## Repository Structure
 
-# OS files
-.DS_Store
-Thumbs.db
+- notebooks/ : Experimental notebook
+- figures/ : Methodology and evaluation figures
+- tables/ : Experimental result tables
+- results/ : Exported evaluation outputs
+- paper/ : Manuscript PDF
 
-# Temporary files
-*.tmp
-*.temp
+## Datasets
 
-# Logs
-*.log
+- LVIS
+- COCO
 
-# Kaggle
-/kaggle/working/
+## Methodology
 
-# Outputs
-outputs/generated_figures/
-outputs/generated_tables/
+The framework investigates:
 
-# Large model files
-*.pth
-*.pt
-checkpoints/
-weights/
+- Multi-source semantic evidence generation
+- Semantic prompt fusion
+- Prior-aware evidence aggregation
+- Long-tail open-vocabulary object detection
+- Uncertainty and semantic conflict analysis
+
+## Status
+
+Information Fusion Journal Submission

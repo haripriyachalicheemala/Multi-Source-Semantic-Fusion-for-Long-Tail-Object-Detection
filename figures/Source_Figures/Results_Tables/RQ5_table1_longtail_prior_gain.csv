@@ -1,0 +1,4 @@
+frequency_group,frequency_code,gt_pairs,evaluation_target,threshold,adaptive_recall,prior_aware_recall,absolute_gain,relative_gain_%
+Rare,r,331,was_detected,0.1,0.7638,0.9409,0.1772,23.2
+Common,c,266,was_detected,0.1,0.8578,0.931,0.0733,8.54
+Frequent,f,3535,was_detected,0.1,0.888,0.9191,0.031,3.49

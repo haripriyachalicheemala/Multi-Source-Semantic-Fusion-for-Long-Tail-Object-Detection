@@ -1,0 +1,9 @@
+dataset,method,gt_pairs,recall,mean_score,detected_pairs
+LVIS,Primary Prompt,4132,0.8538,0.2312,3528
+LVIS,Semantic Evidence,4132,0.9131,0.3124,3773
+LVIS,Adaptive Fusion,4132,0.8015,0.2061,3312
+LVIS,Prior-Aware Fusion,4132,0.8412,0.2396,3476
+COCO,Primary Prompt,3217,0.8816,0.236,2836
+COCO,Semantic Evidence,3217,0.927,0.3508,2982
+COCO,Adaptive Fusion,3217,0.8231,0.2341,2648
+COCO,Prior-Aware Fusion,3217,0.8231,0.2341,2648

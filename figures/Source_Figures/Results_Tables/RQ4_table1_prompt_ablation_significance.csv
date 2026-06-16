@@ -1,0 +1,7 @@
+prompt_type,gt_pairs,semantic_threshold,pairs_with_prompt_evidence,coverage_rate,unique_pairs,shared_pairs,unique_contribution_rate,redundant_contribution_rate,recall_all_prompts,recall_without_prompt,recall_drop_if_removed,relative_drop_%,mcnemar_stat,mcnemar_p_value,significant_at_0.05,mcnemar_effect,importance_rank
+description,7349,0.05,4176,0.5682,1875,2301,0.2551,0.3131,0.9192,0.664,0.2551,27.76,1873.0005,0,TRUE,1,1
+primary,7349,0.05,2994,0.4074,297,2697,0.0404,0.367,0.9192,0.8788,0.0404,4.4,295.0034,4.04E-66,TRUE,1,2
+context,7349,0.05,2893,0.3937,116,2777,0.0158,0.3779,0.9192,0.9034,0.0158,1.72,114.0086,1.30E-26,TRUE,1,3
+attribute,7349,0.05,2379,0.3237,110,2269,0.015,0.3087,0.9192,0.9042,0.015,1.63,108.0091,2.68E-25,TRUE,1,4
+hypernym,7349,0.05,852,0.1159,61,791,0.0083,0.1076,0.9192,0.9109,0.0083,0.9,59.0164,1.56E-14,TRUE,1,5
+synonym,7349,0.05,1342,0.1826,60,1282,0.0082,0.1744,0.9192,0.911,0.0082,0.89,58.0167,2.60E-14,TRUE,1,6

@@ -1,0 +1,4 @@
+method,evaluation_target,threshold,overall_recall,mean_score,median_score,std_score,rank
+Prior-Aware Fusion,was_detected,0.1,0.9213,0.2396,0.2287,0.145,1
+Max Fusion,was_detected,0.1,0.9109,0.3124,0.287,0.2093,2
+Adaptive Fusion,was_detected,0.1,0.8778,0.2061,0.1975,0.1264,3

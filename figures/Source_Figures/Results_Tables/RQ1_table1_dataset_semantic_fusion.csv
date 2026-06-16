@@ -1,0 +1,3 @@
+dataset,images,primary_prompt_recall,semantic_prompt_recall,absolute_recall_gain,relative_recall_gain_%,primary_AP50,semantic_AP50,AP50_gain,AP50_relative_gain_%,primary_boxes,semantic_boxes,mean_prompts_per_image
+COCO,1000,0.890103463,0.938702273,0.04859881,5.46,0.3687,0.4379,0.0692,18.77,22093,35020,12.868
+LVIS,1000,0.84864313,0.914325176,0.065682046,7.74,0.2343,0.2687,0.0344,14.68,29838,47870,23.734
